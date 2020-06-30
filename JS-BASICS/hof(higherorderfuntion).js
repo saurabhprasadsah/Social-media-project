@@ -6,6 +6,15 @@ function createGreeter(greeting) {
     return greet
     
 }
+
+function getName() {
+    return document.getElementById('namebox').Value
+}
+
+
+
+
+
 let g1 = createGreeter('Goodmorning')
 let g2 = createGreeter('Good evening')
 
