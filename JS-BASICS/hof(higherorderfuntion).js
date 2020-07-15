@@ -22,3 +22,6 @@ console.log(typeof g1)
 
 console.log(g1('Arnva'))
 console.log(g2('prateek'))
+
+
+console.log(('saurabh'))
