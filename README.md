@@ -1,5 +1,5 @@
 # Social-media-project
 
-chat apps
 
-Social #media
+# chat apps
+# Social media
